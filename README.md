@@ -14,7 +14,7 @@ This model has 862 buildings with either flat or pitched roofs. OSM buildings fo
 
 
 ## Lenton Hurst 
-![Lenton Hurst example single building](images/lenton_hurst.jpg "Lenton Hurst example single building")
+![Lenton Hurst example single building](images/lenton_hurst.png "Lenton Hurst example single building")
 
 A single building with a procedurally estimated pitched roof.
 
