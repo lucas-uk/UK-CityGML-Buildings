@@ -2,7 +2,7 @@
 
 ![CityGML LODs](images/citygml_wireframes.png "CityGML Levels of Detail")
 
-Simple examples of UK building / city models, encoded as CityGML, and created from [OpenStreetMap](https://www.openstreetmap.org/) and [Environment Agency 1m LiDAR](https://data.gov.uk/data/search?theme-primary=Mapping&publisher=environment-agency&res_format=WMS&unpublished=false) data. These models are the result of an automated workflow for creating LOD1 and LOD2 CityGML geometries and therefore have many imperfections. WallSurfaces are based on extrusions of the OSM building footprints. A flat or pitched (assumed) RoofSurface geometry is estimated to create an approximate roof representation. The SRS is EPSG:27700
+Simple examples of UK building / city models, encoded as CityGML, and created from [OpenStreetMap](https://www.openstreetmap.org/) and [Environment Agency 1m LiDAR](https://data.gov.uk/data/search?theme-primary=Mapping&publisher=environment-agency&res_format=WMS&unpublished=false) data. These models are the result of an automated workflow for creating LOD1 and LOD2 CityGML geometries and do therefore have many imperfections. WallSurfaces are based on extrusions of the OSM building footprints. A flat or pitched (assumed) RoofSurface geometry is estimated to create an approximate roof representation. The SRS of these models is EPSG:27700. 
 
 
 ## University Park, University of Nottingham
@@ -18,5 +18,5 @@ This model has 862 buildings with either flat or pitched roofs. OSM buildings fo
 
 A single building with a procedurally estimated pitched roof.
 
-[Download](citygml/lenton_hurst.gml)
+[Download](citygml/Lenton_hurst_Aug2017.gml)
 
