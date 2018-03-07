@@ -10,7 +10,7 @@ Simple examples of UK building / city models, encoded as CityGML, and created fr
 
 This model has 862 buildings with either flat or pitched roofs. OSM buildings found to have a relative height of <3m are excluded from the model. 
 
-[Download](citygml/university_park.gml)
+[Download](/citygml/University_Park.gml)
 
 
 ## Lenton Hurst 
@@ -18,5 +18,5 @@ This model has 862 buildings with either flat or pitched roofs. OSM buildings fo
 
 A single building with a procedurally estimated pitched roof.
 
-[Download](citygml/Lenton_hurst_Aug2017.gml)
+[Download](/citygml/Lenton_hurst_Aug2017.gml)
 
