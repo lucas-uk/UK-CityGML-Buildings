@@ -11,6 +11,8 @@ Simple examples of UK building / city models, encoded as CityGML, and created fr
 This model has 862 buildings with either flat or pitched roofs. OSM buildings found to have a relative height of <3m are excluded from the model. 
 
 [Download](/citygml/University_Park.gml)
+[Cesium 3D Web Map](https://maptopixel.gitlab.io/3d/Apps/osm_university_park.html) (requires a good browser with WebGL).
+
 
 
 ## Lenton Hurst 
