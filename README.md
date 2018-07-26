@@ -12,7 +12,7 @@ This model has 862 buildings with either flat or pitched roofs. OSM buildings fo
 
 [Download CityGML data](/citygml/University_Park.gml)
 
-[View data in Cesium 3D Web Map](https://maptopixel.gitlab.io/3d/Apps/osm_university_park.html) (requires a good browser with WebGL).
+[View data in Cesium 3D Web Map](https://maptopixel.gitlab.io/3d/osm/) (requires a good browser with WebGL).
 
 
 
